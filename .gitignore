@@ -1,3 +1,22 @@
+######################
+# Intellij
+######################
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+classes/
+out/
+
+######################
+# Maven
+######################
+/log/
+/target/
+/dependency-reduced-pom.xml
+
 # Compiled class file
 *.class
 
